@@ -16,3 +16,4 @@
 #     expect(fizz_15).to eq("FizzBuzz")
 #   end
 # end
+def fizzbuzz
