@@ -14,3 +14,4 @@ describe "fizzbuzz" do
  
     expect(fizz_15).to eq("FizzBuzz")
   end
+end
