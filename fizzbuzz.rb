@@ -16,4 +16,8 @@
 #     expect(fizz_15).to eq("FizzBuzz")
 #   end
 # end
-def fizzbuzz
+def fizzbuzz(int)
+  if int % 3 == 0 
+    return "fixx"
+  end
+end
